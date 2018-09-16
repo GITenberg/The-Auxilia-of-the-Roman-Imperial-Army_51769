@@ -1,0 +1,27 @@
+_repo: The-Auxilia-of-the-Roman-Imperial-Army_51769
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cheesman, George Leonard
+    alias: Cheesman, G. L. (George Leonard)
+    deathdate: 1915
+    gutenberg_agent_id: '46543'
+    url: http://www.gutenberg.org/2009/agents/46543
+description: ''
+gutenberg_issued: '2016-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51769'
+  lccn: '15008720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- Army'
+- !lcsh 'Rome -- Colonies'
+- !lcc 'DG'
+- !lcc 'U'
+- GITenberg
+title: The Auxilia of the Roman Imperial Army
+url: http://www.gutenberg.org/ebooks/51769
